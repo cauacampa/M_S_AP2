@@ -1,0 +1,6 @@
+@M_S_AP2_HostAddress = http://localhost:5020
+
+GET {{M_S_AP2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
